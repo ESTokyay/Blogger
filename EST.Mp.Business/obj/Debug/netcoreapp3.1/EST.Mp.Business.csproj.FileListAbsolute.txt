@@ -1,0 +1,16 @@
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Business.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Business.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Business.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.DataAccess.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.DataAccess.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\bin\Debug\netcoreapp3.1\EST.Mp.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Business\obj\Debug\netcoreapp3.1\EST.Mp.Business.pdb

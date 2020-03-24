@@ -1,0 +1,7 @@
+﻿@model IEnumerable<string> 
+    <ul class="submenu">
+        @foreach (var category in Model)
+        {
+            <li><a href="/Home/Category?test=@category">@category</a></li>
+        }
+    </ul>

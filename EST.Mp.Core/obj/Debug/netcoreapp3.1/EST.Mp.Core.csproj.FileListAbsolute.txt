@@ -1,0 +1,8 @@
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\bin\Debug\netcoreapp3.1\EST.Mp.Core.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\bin\Debug\netcoreapp3.1\EST.Mp.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\bin\Debug\netcoreapp3.1\EST.Mp.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\obj\Debug\netcoreapp3.1\EST.Mp.Core.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\obj\Debug\netcoreapp3.1\EST.Mp.Core.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\obj\Debug\netcoreapp3.1\EST.Mp.Core.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\obj\Debug\netcoreapp3.1\EST.Mp.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Core\obj\Debug\netcoreapp3.1\EST.Mp.Core.pdb

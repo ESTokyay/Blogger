@@ -1,0 +1,12 @@
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\bin\Debug\netcoreapp3.1\EST.Mp.Entities.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\bin\Debug\netcoreapp3.1\EST.Mp.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\bin\Debug\netcoreapp3.1\EST.Mp.Entities.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\bin\Debug\netcoreapp3.1\EST.Mp.Core.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\bin\Debug\netcoreapp3.1\EST.Mp.Core.pdb
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.csprojAssemblyReference.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.csproj.CopyComplete
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.dll
+C:\Users\sanca\OneDrive\Masaüstü\Mp.Blog\EST.Mp\EST.Mp.Entities\obj\Debug\netcoreapp3.1\EST.Mp.Entities.pdb
